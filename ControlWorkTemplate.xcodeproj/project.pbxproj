@@ -7,29 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE0D0DF32AD69B08004BBB8E /* CalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0D0DF22AD69B08004BBB8E /* CalcViewController.swift */; };
-		DEF935B92AD0ADF300B492F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF935B82AD0ADF300B492F3 /* AppDelegate.swift */; };
-		DEF935BB2AD0ADF300B492F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF935BA2AD0ADF300B492F3 /* SceneDelegate.swift */; };
-		DEF935C02AD0ADF300B492F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF935BE2AD0ADF300B492F3 /* Main.storyboard */; };
-		DEF935C22AD0ADF500B492F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEF935C12AD0ADF500B492F3 /* Assets.xcassets */; };
-		DEF935C52AD0ADF500B492F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF935C32AD0ADF500B492F3 /* LaunchScreen.storyboard */; };
-		DEF935CE2AD0B22E00B492F3 /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF935CD2AD0B22E00B492F3 /* CalculatorModel.swift */; };
+		DE0D0DEF2AD5C1A5004BBB8E /* porsche.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DE0D0DEE2AD5C1A5004BBB8E /* porsche.jpeg */; };
+		DE0D0DF12AD5C21E004BBB8E /* lambo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DE0D0DF02AD5C21D004BBB8E /* lambo.jpeg */; };
+		DE3F05F92AD54EA2006FF9BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F05F82AD54EA2006FF9BA /* AppDelegate.swift */; };
+		DE3F05FB2AD54EA2006FF9BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F05FA2AD54EA2006FF9BA /* SceneDelegate.swift */; };
+		DE3F05FD2AD54EA2006FF9BA /* CarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F05FC2AD54EA2006FF9BA /* CarViewController.swift */; };
+		DE3F06022AD54EA4006FF9BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE3F06012AD54EA4006FF9BA /* Assets.xcassets */; };
+		DE3F06052AD54EA4006FF9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE3F06032AD54EA4006FF9BA /* LaunchScreen.storyboard */; };
+		DE3F060D2AD5515E006FF9BA /* CarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F060C2AD5515E006FF9BA /* CarTableViewCell.swift */; };
+		DE3F06112AD58609006FF9BA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F06102AD58609006FF9BA /* Car.swift */; };
+		DE3F06132AD58963006FF9BA /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F06122AD58963006FF9BA /* CartViewController.swift */; };
+		DE3F06152AD58B5D006FF9BA /* BMW.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DE3F06142AD58B5D006FF9BA /* BMW.jpeg */; };
+		DE3F06172AD58DC3006FF9BA /* CartTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F06162AD58DC3006FF9BA /* CartTableViewCell.swift */; };
+		DE3F06192AD58E54006FF9BA /* Cart.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3F06182AD58E54006FF9BA /* Cart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DE0D0DF22AD69B08004BBB8E /* CalcViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcViewController.swift; sourceTree = "<group>"; };
-		DEF935B52AD0ADF300B492F3 /* AppleCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEF935B82AD0ADF300B492F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DEF935BA2AD0ADF300B492F3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DEF935BF2AD0ADF300B492F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DEF935C12AD0ADF500B492F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DEF935C42AD0ADF500B492F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DEF935C62AD0ADF500B492F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DEF935CD2AD0B22E00B492F3 /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
+		DE0D0DEE2AD5C1A5004BBB8E /* porsche.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche.jpeg; sourceTree = "<group>"; };
+		DE0D0DF02AD5C21D004BBB8E /* lambo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lambo.jpeg; sourceTree = "<group>"; };
+		DE3F05F52AD54EA2006FF9BA /* ControlWorkTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ControlWorkTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE3F05F82AD54EA2006FF9BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DE3F05FA2AD54EA2006FF9BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DE3F05FC2AD54EA2006FF9BA /* CarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarViewController.swift; sourceTree = "<group>"; };
+		DE3F06012AD54EA4006FF9BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DE3F06042AD54EA4006FF9BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DE3F06062AD54EA4006FF9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE3F060C2AD5515E006FF9BA /* CarTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarTableViewCell.swift; sourceTree = "<group>"; };
+		DE3F06102AD58609006FF9BA /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		DE3F06122AD58963006FF9BA /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
+		DE3F06142AD58B5D006FF9BA /* BMW.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BMW.jpeg; sourceTree = "<group>"; };
+		DE3F06162AD58DC3006FF9BA /* CartTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartTableViewCell.swift; sourceTree = "<group>"; };
+		DE3F06182AD58E54006FF9BA /* Cart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DEF935B22AD0ADF300B492F3 /* Frameworks */ = {
+		DE3F05F22AD54EA2006FF9BA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,89 +51,95 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DEF935AC2AD0ADF300B492F3 = {
+		DE3F05EC2AD54EA2006FF9BA = {
 			isa = PBXGroup;
 			children = (
-				DEF935B72AD0ADF300B492F3 /* AppleCalculator */,
-				DEF935B62AD0ADF300B492F3 /* Products */,
+				DE3F05F72AD54EA2006FF9BA /* ControlWorkTemplate */,
+				DE3F05F62AD54EA2006FF9BA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DEF935B62AD0ADF300B492F3 /* Products */ = {
+		DE3F05F62AD54EA2006FF9BA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DEF935B52AD0ADF300B492F3 /* AppleCalculator.app */,
+				DE3F05F52AD54EA2006FF9BA /* ControlWorkTemplate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DEF935B72AD0ADF300B492F3 /* AppleCalculator */ = {
+		DE3F05F72AD54EA2006FF9BA /* ControlWorkTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				DEF935B82AD0ADF300B492F3 /* AppDelegate.swift */,
-				DEF935BA2AD0ADF300B492F3 /* SceneDelegate.swift */,
-				DEF935CF2AD0C69D00B492F3 /* CalculatorView */,
-				DEF935CC2AD0B21500B492F3 /* Model */,
-				DEF935BE2AD0ADF300B492F3 /* Main.storyboard */,
-				DEF935C12AD0ADF500B492F3 /* Assets.xcassets */,
-				DEF935C32AD0ADF500B492F3 /* LaunchScreen.storyboard */,
-				DEF935C62AD0ADF500B492F3 /* Info.plist */,
+				DE3F05F82AD54EA2006FF9BA /* AppDelegate.swift */,
+				DE3F05FA2AD54EA2006FF9BA /* SceneDelegate.swift */,
+				DE3F060F2AD5827A006FF9BA /* Model */,
+				DE3F060E2AD5825B006FF9BA /* ViewControllers */,
+				DE3F06012AD54EA4006FF9BA /* Assets.xcassets */,
+				DE3F06032AD54EA4006FF9BA /* LaunchScreen.storyboard */,
+				DE3F06062AD54EA4006FF9BA /* Info.plist */,
 			);
-			path = AppleCalculator;
+			path = ControlWorkTemplate;
 			sourceTree = "<group>";
 		};
-		DEF935CC2AD0B21500B492F3 /* Model */ = {
+		DE3F060E2AD5825B006FF9BA /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				DEF935CD2AD0B22E00B492F3 /* CalculatorModel.swift */,
+				DE3F05FC2AD54EA2006FF9BA /* CarViewController.swift */,
+				DE3F060C2AD5515E006FF9BA /* CarTableViewCell.swift */,
+				DE3F06122AD58963006FF9BA /* CartViewController.swift */,
+				DE3F06162AD58DC3006FF9BA /* CartTableViewCell.swift */,
+				DE3F06142AD58B5D006FF9BA /* BMW.jpeg */,
+				DE0D0DEE2AD5C1A5004BBB8E /* porsche.jpeg */,
+				DE0D0DF02AD5C21D004BBB8E /* lambo.jpeg */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		DE3F060F2AD5827A006FF9BA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DE3F06102AD58609006FF9BA /* Car.swift */,
+				DE3F06182AD58E54006FF9BA /* Cart.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		DEF935CF2AD0C69D00B492F3 /* CalculatorView */ = {
-			isa = PBXGroup;
-			children = (
-				DE0D0DF22AD69B08004BBB8E /* CalcViewController.swift */,
-			);
-			path = CalculatorView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DEF935B42AD0ADF300B492F3 /* AppleCalculator */ = {
+		DE3F05F42AD54EA2006FF9BA /* ControlWorkTemplate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DEF935C92AD0ADF500B492F3 /* Build configuration list for PBXNativeTarget "AppleCalculator" */;
+			buildConfigurationList = DE3F06092AD54EA4006FF9BA /* Build configuration list for PBXNativeTarget "ControlWorkTemplate" */;
 			buildPhases = (
-				DEF935B12AD0ADF300B492F3 /* Sources */,
-				DEF935B22AD0ADF300B492F3 /* Frameworks */,
-				DEF935B32AD0ADF300B492F3 /* Resources */,
+				DE3F05F12AD54EA2006FF9BA /* Sources */,
+				DE3F05F22AD54EA2006FF9BA /* Frameworks */,
+				DE3F05F32AD54EA2006FF9BA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AppleCalculator;
-			productName = AppleCalculator;
-			productReference = DEF935B52AD0ADF300B492F3 /* AppleCalculator.app */;
+			name = ControlWorkTemplate;
+			productName = ControlWorkTemplate;
+			productReference = DE3F05F52AD54EA2006FF9BA /* ControlWorkTemplate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DEF935AD2AD0ADF300B492F3 /* Project object */ = {
+		DE3F05ED2AD54EA2006FF9BA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					DEF935B42AD0ADF300B492F3 = {
+					DE3F05F42AD54EA2006FF9BA = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = DEF935B02AD0ADF300B492F3 /* Build configuration list for PBXProject "AppleCalculator" */;
+			buildConfigurationList = DE3F05F02AD54EA2006FF9BA /* Build configuration list for PBXProject "ControlWorkTemplate" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,56 +147,54 @@
 				en,
 				Base,
 			);
-			mainGroup = DEF935AC2AD0ADF300B492F3;
-			productRefGroup = DEF935B62AD0ADF300B492F3 /* Products */;
+			mainGroup = DE3F05EC2AD54EA2006FF9BA;
+			productRefGroup = DE3F05F62AD54EA2006FF9BA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DEF935B42AD0ADF300B492F3 /* AppleCalculator */,
+				DE3F05F42AD54EA2006FF9BA /* ControlWorkTemplate */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DEF935B32AD0ADF300B492F3 /* Resources */ = {
+		DE3F05F32AD54EA2006FF9BA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEF935C52AD0ADF500B492F3 /* LaunchScreen.storyboard in Resources */,
-				DEF935C22AD0ADF500B492F3 /* Assets.xcassets in Resources */,
-				DEF935C02AD0ADF300B492F3 /* Main.storyboard in Resources */,
+				DE0D0DEF2AD5C1A5004BBB8E /* porsche.jpeg in Resources */,
+				DE0D0DF12AD5C21E004BBB8E /* lambo.jpeg in Resources */,
+				DE3F06052AD54EA4006FF9BA /* LaunchScreen.storyboard in Resources */,
+				DE3F06022AD54EA4006FF9BA /* Assets.xcassets in Resources */,
+				DE3F06152AD58B5D006FF9BA /* BMW.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DEF935B12AD0ADF300B492F3 /* Sources */ = {
+		DE3F05F12AD54EA2006FF9BA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEF935CE2AD0B22E00B492F3 /* CalculatorModel.swift in Sources */,
-				DE0D0DF32AD69B08004BBB8E /* CalcViewController.swift in Sources */,
-				DEF935B92AD0ADF300B492F3 /* AppDelegate.swift in Sources */,
-				DEF935BB2AD0ADF300B492F3 /* SceneDelegate.swift in Sources */,
+				DE3F06172AD58DC3006FF9BA /* CartTableViewCell.swift in Sources */,
+				DE3F05FD2AD54EA2006FF9BA /* CarViewController.swift in Sources */,
+				DE3F06132AD58963006FF9BA /* CartViewController.swift in Sources */,
+				DE3F060D2AD5515E006FF9BA /* CarTableViewCell.swift in Sources */,
+				DE3F06112AD58609006FF9BA /* Car.swift in Sources */,
+				DE3F05F92AD54EA2006FF9BA /* AppDelegate.swift in Sources */,
+				DE3F05FB2AD54EA2006FF9BA /* SceneDelegate.swift in Sources */,
+				DE3F06192AD58E54006FF9BA /* Cart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DEF935BE2AD0ADF300B492F3 /* Main.storyboard */ = {
+		DE3F06032AD54EA4006FF9BA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DEF935BF2AD0ADF300B492F3 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		DEF935C32AD0ADF500B492F3 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DEF935C42AD0ADF500B492F3 /* Base */,
+				DE3F06042AD54EA4006FF9BA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -186,7 +202,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DEF935C72AD0ADF500B492F3 /* Debug */ = {
+		DE3F06072AD54EA4006FF9BA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -249,7 +265,7 @@
 			};
 			name = Debug;
 		};
-		DEF935C82AD0ADF500B492F3 /* Release */ = {
+		DE3F06082AD54EA4006FF9BA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -305,7 +321,7 @@
 			};
 			name = Release;
 		};
-		DEF935CA2AD0ADF500B492F3 /* Debug */ = {
+		DE3F060A2AD54EA4006FF9BA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,7 +329,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AppleCalculator/Info.plist;
+				INFOPLIST_FILE = ControlWorkTemplate/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -323,7 +339,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.AppleCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ControlWorkTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -331,7 +347,7 @@
 			};
 			name = Debug;
 		};
-		DEF935CB2AD0ADF500B492F3 /* Release */ = {
+		DE3F060B2AD54EA4006FF9BA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -339,7 +355,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = AppleCalculator/Info.plist;
+				INFOPLIST_FILE = ControlWorkTemplate/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -349,7 +365,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.AppleCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ControlWorkTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -360,25 +376,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DEF935B02AD0ADF300B492F3 /* Build configuration list for PBXProject "AppleCalculator" */ = {
+		DE3F05F02AD54EA2006FF9BA /* Build configuration list for PBXProject "ControlWorkTemplate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DEF935C72AD0ADF500B492F3 /* Debug */,
-				DEF935C82AD0ADF500B492F3 /* Release */,
+				DE3F06072AD54EA4006FF9BA /* Debug */,
+				DE3F06082AD54EA4006FF9BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DEF935C92AD0ADF500B492F3 /* Build configuration list for PBXNativeTarget "AppleCalculator" */ = {
+		DE3F06092AD54EA4006FF9BA /* Build configuration list for PBXNativeTarget "ControlWorkTemplate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DEF935CA2AD0ADF500B492F3 /* Debug */,
-				DEF935CB2AD0ADF500B492F3 /* Release */,
+				DE3F060A2AD54EA4006FF9BA /* Debug */,
+				DE3F060B2AD54EA4006FF9BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DEF935AD2AD0ADF300B492F3 /* Project object */;
+	rootObject = DE3F05ED2AD54EA2006FF9BA /* Project object */;
 }

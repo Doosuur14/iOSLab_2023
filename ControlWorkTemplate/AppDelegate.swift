@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  AppleCalculator
+//  ControlWorkTemplate
 //
-//  Created by Faki Doosuur Doris on 07.10.2023.
+//  Created by Faki Doosuur Doris on 10.10.2023.
 //
 
 import UIKit
